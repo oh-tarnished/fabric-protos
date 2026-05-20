@@ -1,1 +1,1 @@
-*.proto linguist-language=Protocol Buffer
+*.proto linguist-detectable
